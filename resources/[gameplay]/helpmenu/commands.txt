@@ -6,29 +6,32 @@ H - Press it to trigger the custom horn in the GC shop.
 GC Bike Trails
 1, 2, 3, 4, 5 - Each of these do different animations when the bike is in the air.
 
-Achievements
-F1 - Show your achievements
+Sidebar menu
+F1 - Show the sidebar menu.
 
 Switch server
-F2 - Press twice to be redirected to the other server
+F2 - Press twice to be redirected to the other server.
 
 Private Messaging
-F3 - Open Private Messaging
+F3 - Open Private Messaging.
+
+Achievements 
+F4 - Show your achievements.
 
 Toptimes
-F5 - View current map toptimes
+F5 - View current map toptimes.
 
 GCShop
-F6 - Open GreenCoins Shop window
+F6 - Open GreenCoins Shop window.
 
 SoundCloud Player 
-F7 - Open/Close SoundCloud Music Player
+F7 - Open/Close SoundCloud Music Player.
 
 Console
-F8 - Brings up your console
+F8 - Brings up your console.
 
 Help menu
-F9 - Open/close help menu
+F9 - Open/close help menu.
 
 Player stats
 F10 - Stats
@@ -43,47 +46,47 @@ F12
 	                    -------------------------------> Player Commands <-------------------------------
 
 
-/report                                                              Report a problem to admins
-/ignore                                                              Ignore a disturbing player
-/register [name] [pass]                                              Register an account to use with /login features
-/gc                                                                  Toggle gc counter
-/gclogin [name] [pass]                                               Login forum account
-/gclogout                                                            Logout
-/greencoins [player]                                                 Greencoins stats for you/player in console
-/gcshop                                                              Open greencoins shop
-/soundsoff                                                           Mute map sounds on map start
-/soundson                                                            Disable /soundsoff
-/getvehid                                                            Get current vehicle name and model
-/country [player]                                                    Show country for player
-/seen [nick]                                                         When was a player last on the servers
-/serialnicks [serial]                                                Nick associated with serial
-/freecam                                                             Go into freecam mode
-/rules                                                               Show the rules
-/admins                                                              Show admins on servers
-/author                                                              Show current map author
-/upload                                                              Show upload adres
-/irc                                                                 Show irc info
-/lol [player]                                                            Laugh!
-/song                                                               Show directory for current song
-/toggleicon                                                         Toggle typing icon
-/resizeicon [size]                                                  Resize typing icon
-/seticonvis [alpha]                                                 Alpha for typing icon
-/recent                                                             Show recent forum topics
-/mapinfo                                                            Show map info window
-/hidenext                                                           Hide the current/next map window
-/hidemsg                                                            Hide floating messages
-/like,/dislike                                                      Like or dislike current map
-/motd                                                               Show motd window
-/locknick,/unlocknick                                               Protect or unprotect your nick abuse will not be tolerated
-/messages                                                           Disable F3 messaging to you
-/radio                                                              Play webradio
-/settings                                                           Show settings 
-/mode                                                               Change the mode for speedo
-/stats [player]                                                     Show race/mix stats for player
-/checkmap [map]v                                                    See if map is on the server
-/s,/spectate [player]                                               Go into spectator mode
-/cpdelays                                                           Toggle cp delay times
-/oldcam                                                             Switch to different camera
-/board                                                              Show ranking board with delays
-/sphud                                                              Switch to a cool hud
-/players [mix/race]                                                 Show players on other server
+/report______________________________________________________________Report a problem to admins
+/ignore______________________________________________________________Ignore a disturbing player
+/register [name] [pass]______________________________________________Register an account to use with /login features
+/gc__________________________________________________________________Toggle gc counter
+/gclogin [name] [pass]_______________________________________________Login forum account
+/gclogout____________________________________________________________Logout
+/greencoins [player]_________________________________________________Greencoins stats for you/player in console
+/gcshop______________________________________________________________Open greencoins shop
+/soundsoff___________________________________________________________Mute map sounds on map start
+/soundson____________________________________________________________Disable /soundsoff
+/getvehid____________________________________________________________Get current vehicle name and model
+/country [player]____________________________________________________Show country for player
+/seen [nick]_________________________________________________________When was a player last on the servers
+/serialnicks [serial]________________________________________________Nick associated with serial
+/freecam_____________________________________________________________Go into freecam mode
+/rules_______________________________________________________________Show the rules
+/admins______________________________________________________________Show admins on servers
+/author______________________________________________________________Show current map author
+/upload______________________________________________________________Show upload adres
+/irc_________________________________________________________________Show irc info
+/lol [player]________________________________________________________    Laugh!
+/song________________________________________________________________Show directory for current song
+/toggleicon__________________________________________________________Toggle typing icon
+/resizeicon [size]___________________________________________________Resize typing icon
+/seticonvis [alpha]__________________________________________________Alpha for typing icon
+/recent______________________________________________________________Show recent forum topics
+/mapinfo_____________________________________________________________Show map info window
+/hidenext____________________________________________________________Hide the current/next map window
+/hidemsg_____________________________________________________________Hide floating messages
+/like,/dislike_______________________________________________________Like or dislike current map
+/motd________________________________________________________________Show motd window
+/locknick,/unlocknick________________________________________________Protect or unprotect your nick abuse will not be tolerated
+/messages___________________________________________________________Disable F3 messaging to you
+/radio______________________________________________________________Play webradio
+/settings___________________________________________________________Show settings 
+/mode_______________________________________________________________Change the mode for speedo
+/stats [player]_____________________________________________________Show race/mix stats for player
+/checkmap [map]_____________________________________________________See if map is on the server
+/s,/spectate [player]_______________________________________________Go into spectator mode
+/cpdelays___________________________________________________________Toggle cp delay times
+/oldcam_____________________________________________________________Switch to different camera
+/board______________________________________________________________Show ranking board with delays
+/sphud______________________________________________________________Switch to a cool hud
+/players [mix/race]_________________________________________________Show players on other server
